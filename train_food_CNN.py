@@ -93,8 +93,9 @@ Y_TRAIN_list = []
 X_TEST_list = []
 Y_TEST_list = []
 
-FileNames_train = ["chicken_curry_train.npy", "french_fries_train.npy", 'pizza_train.npy', "macarons_train.npy", "miso_soup_train.npy"]
-FileNames_test = ["chicken_curry_test.npy", "french_fries_test.npy", 'pizza_test.npy', "macarons_test.npy", "miso_soup_test.npy"]
+FileNames_train = ["Data/chicken_curry_train.npy", "Data/french_fries_train.npy", 'Data/pizza_train.npy', "Data/macarons_train.npy", "Data/miso_soup_train.npy"]
+FileNames_test = ["Data/chicken_curry_test.npy", "Data/french_fries_test.npy", 'Data/pizza_test.npy', "Data/macarons_test.npy", "Data/miso_soup_test.npy"]
+
 
 target = 0
 
